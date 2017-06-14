@@ -1,6 +1,9 @@
 What is this?
 =============
+
 This is a [Dockerfile][0] to run the [Hazelcast UI *hface*][1] in a [docker][0] container.
+
+[![](https://images.microbadger.com/badges/image/moritanosuke/docker-hface.svg)](https://microbadger.com/images/moritanosuke/docker-hface "Get your own image badge on microbadger.com")
 
 How to use this?
 ----------------
