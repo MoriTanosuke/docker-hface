@@ -7,7 +7,7 @@ How to use this?
 
 Run hface in a docker container:
 
-    docker run --rm -p 3000:3000 -v $(pwd)/hface.conf:/etc/hface.conf MoriTanosuke/docker-hface
+    docker run --rm -p 3000:3000 -v $(pwd)/hface.conf:/etc/hface.conf moritanosuke/docker-hface
 
 Make sure that the provided `hface.conf` matches your [hazelcast][2] setup, especially the credentials.
 
